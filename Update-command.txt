@@ -1,0 +1,5 @@
+sudo apt update\nsudo apt upgrade -y && sudo apt dist-upgrade -y\n[ -f /var/run/reboot-required ] && sudo reboot -f
+===================================
+===================================
+
+sudo apt autoremove
